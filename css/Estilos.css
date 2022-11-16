@@ -1,0 +1,62 @@
+.container {
+  border-radius: 10px;
+	padding:25px;
+	margin-top: 50px; 
+	width: 609px;
+  height: 716px;
+  background: linear-gradient(180deg, #55ccff 0%, hsla(346, 78%, 50%, 0.97) 100%);
+  overflow: visible;
+}
+.screen {
+  box-sizing: border-box;
+  background: linear-gradient(163deg, #1D94F8 0%, rgba(97, 0, 0, 0.18) 100%);
+  overflow: visible;
+  border: 1px solid #ff9e9e;
+}
+.image{
+  width: 334px;
+  height: 167px;
+  overflow: visible;
+  background-image: url("img src=imagenes/ima1.pgn");
+  background-size: 50% 100%;
+  background-repeat: no-repeat;
+  border-radius: 69px;
+}
+.frame {
+  width: 886px;
+  height: 1060px;
+  background: linear-gradient(180deg, #ff6b6b 0%, hsla(0, 0%, 0%, 0.01) 100%);
+  overflow: visible;
+}
+div#frame1{
+  float: right;
+  width: 1162px;
+  height: 104px;
+  background-color: #ff8080;
+  overflow: visible;
+
+}
+.barra{
+
+  height: 92px;
+  background-color: #ff8080;
+  overflow: visible;
+}
+
+.img{
+  height: 104px;
+  width: 596px;
+  float: right;
+}.txt {
+  width: auto; /* 297px */
+  height: auto; /* 42px */
+  overflow: visible;
+  white-space: pre;
+  color: #000000;
+  letter-spacing: 0px;
+  line-height: 1.2;
+  font-weight: 400;
+  font-style: normal;
+  font-family: "Ovo", serif;
+  font-size: 35px;
+}
